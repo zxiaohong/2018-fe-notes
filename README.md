@@ -6,4 +6,5 @@
 - 13, Aug, 2018 ---> [数组去重学习笔记](https://github.com/zxiaohong/2018-fe-notes/issues/4)
 - 29, Nov , 2018 ---> [Flutter 基础—— Dart 入门](https://github.com/zxiaohong/2018-fe-notes/issues/5)
 - 29, Nov, 2018 ---> [flutter 学习笔记—— App结构和导航（BottomNavigationBar）](https://github.com/zxiaohong/2018-fe-notes/issues/6)
+- 12, Dec, 2018 --->[`Array.forEach()`中`break`、`continue`、`return false`无法跳出循环解决方法](https://github.com/zxiaohong/2018-fe-notes/issues/8)
 - 26，Dec , 2018 ---> [flutter 学习笔记 —— AnimatedList](https://github.com/zxiaohong/2018-fe-notes/issues/7)
